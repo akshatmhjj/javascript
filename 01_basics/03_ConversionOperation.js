@@ -58,6 +58,10 @@ let str3 = str1 + str2
 
 let gameCounter = 100
 gameCounter++
-console.log(gameCounter);
+// console.log(gameCounter);
 
+let abc = 33
+
+let abcKaBaap = String(abc)
+console.log(abcKaBaap); // if i choose number 33 to be shown as string this is the way
 
