@@ -33,3 +33,4 @@ const myFunction = function(){
 } // typeof function, also reffered as object function
 
 console.log(typeof myFunction);
+
